@@ -1,0 +1,8 @@
+myShell.c:52:9:__io_putchar	16	static
+myShell.c:65:9:uart_write	16	static
+myShell.c:78:9:sh_help	24	static
+myShell.c:92:9:sh_example	24	static
+myShell.c:105:9:shell_init	16	static
+myShell.c:128:9:shell_add	24	static
+myShell.c:144:9:shell_char_received	8	static
+myShell.c:179:9:shell_exec	80	static
